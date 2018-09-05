@@ -1,10 +1,9 @@
 # Sentiment-Analysis-For-Movie
-How_to_do_Sentiment_Analysis
-This is the code for 'How to Do Sentiment Analysis'
+This is the code for How_to_do_Sentiment_Analysis
 
 ##Overview
 
-It uses TFLearn to train a Sentiment Analyzer on a set of IMDB Movie ratings. Once trained, given some input text, it will be able to classify it as either positive or negative. The neural network that is built for this is a recurrent network. It uses a technique called LSTM which I'll really deep dive into in later videos.
+It uses TFLearn to train a Sentiment Analyzer on a set of IMDB Movie ratings. Once trained, given some input text, it will be able to classify it as either positive or negative. The neural network that is built for this is a recurrent network. It uses a technique called LSTM.
 
 ##Dependencies
 
@@ -14,7 +13,7 @@ Use this guide to install TFLearn. Or just use the Amazon Web Services prebuilt 
 
 ##Usage
 
-Run demo.py in terminal and it should start training
+Run .py in terminal and it should start training
 
 ##Challenge
 
